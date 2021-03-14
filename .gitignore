@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.bundle
+→ ~/octocat-classifier npm install eslint
++ eslint@7.8.1
+  added 109 packages from 64 contributors and audited 109 packages in 3.491s
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+→ ~/octocat-classifier 
